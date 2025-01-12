@@ -1,10 +1,10 @@
-# Datasets Analysis with Python
+# Datasets Analytics with Python
 
-This repository contains exploratory data analysis of the some open datasets using Python. The analysis includes various statistical techniques and visualizations to uncover patterns and insights and trends in the data.
+This repository contains notebooks for data analysis, predective anlaytics, and machine learning guides for the unit DAS9800 at Global Higher Education institute.
 
 ## Notebooks
 
-- `titanic_eda_guide.ipynb`: Comprehensive analysis following a structured guide, including data cleaning, visualization, and statistical analysis.
+- `titanic_eda_guide.ipynb`: Analysis following a structured guide, including data cleaning, visualization, and statistical analysis.
 
 ## Open in Google Colab
 
