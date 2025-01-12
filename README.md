@@ -2,23 +2,21 @@
 
 This repository contains notebooks for data analysis, predective anlaytics, and machine learning guides for the unit DAS9800 at Global Higher Education institute.
 
-## Notebooks
+## Table of Contents
 
-- `titanic_eda_guide.ipynb`: Analysis following a structured guide, including data cleaning, visualization, and statistical analysis.
-
-## Open in Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/eda-python/blob/main/titanic_eda_guide.ipynb)
+| Topic | Description | Google Colab Link |
+|-------|-------------|------------------|
+| [titanic_eda_guide.ipynb](https://github.com/hkhdair/da-python/blob/main/titanic_eda_guide.ipynb) | Exploratory Data Analysis guide using the Titanic dataset, including data cleaning, visualization, and statistical analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/da-python/blob/main/titanic_eda_guide.ipynb) |
 
 ## How to Run
 
 1. Click the "Open in Colab" button above to open the notebook in Google Colab
-2. Upload the `titanic.csv` file to your Colab environment:
+2. Upload the necessary dataset file to your Colab environment
 3. Run the notebook cells in sequence
 
 ## Requirements
 
-The analysis requires the following Python packages:
+The analysis usually requires some dependencies, such as the following Python packages:
 - pandas
 - numpy
 - matplotlib
